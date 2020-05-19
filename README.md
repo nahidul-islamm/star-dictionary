@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # dictionary
 
 A new Flutter application.
